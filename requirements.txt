@@ -1,0 +1,18 @@
+openai
+python-dotenv
+# Prefer ipykernel + notebook over the full `jupyter` metapackage on Windows
+# (jupyterlab pulls paths that exceed MAX_PATH unless long paths are enabled).
+ipykernel
+notebook
+nbformat
+nbclient
+pandas
+numpy
+matplotlib
+plotly
+tiktoken
+pydantic
+langchain
+langchain-openai
+faiss-cpu
+chromadb
