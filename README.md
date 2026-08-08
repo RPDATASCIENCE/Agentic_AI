@@ -1,8 +1,8 @@
 # Agentic_AI
 
-<img width="203" height="381" alt="image" src="https://github.com/user-attachments/assets/0d8616f0-4595-467d-872f-c5022f9bfc54" />
+## 📁 Repository Structure
 
-
+```text
 Agentic_AI/
 │
 ├── README.md
@@ -24,7 +24,13 @@ Agentic_AI/
 │   └── ...
 │
 ├── RAG/
-│   ├── ...
+│   ├── 01_RAG_Introduction.ipynb
+│   ├── 02_Embeddings.ipynb
+│   ├── 03_Vector_Databases.ipynb
+│   └── ...
 │
 └── Agents/
-    ├── ...
+    ├── 01_Agents_Introduction.ipynb
+    ├── 02_Tool_Calling.ipynb
+    ├── 03_Agent_Workflows.ipynb
+    └── ...
