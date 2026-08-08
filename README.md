@@ -1,5 +1,8 @@
 # Agentic_AI
 
+<img width="203" height="381" alt="image" src="https://github.com/user-attachments/assets/0d8616f0-4595-467d-872f-c5022f9bfc54" />
+
+
 Agentic_AI/
 │
 ├── README.md
